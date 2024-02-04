@@ -1,0 +1,9 @@
+0006 Zoha DHJASH 2019-12-05  Female  1234  
+0002 Ali iooo 2019-12-03  Male  1234  
+0003 Ayesha jdkwjekw 2019-12-04  Female  1234  
+0004 Umar uiuewri 2019-03-13  Male  1234  
+0005 Rajesh jfksdjkfj 2019-12-05  Male  1234  
+0006 sana jjjj 2019-12-05  Female  123  
+0008 rukhsana majeed null  null  123  
+0001 Arif sdkjfk 2020-01-23  Male  1234  
+0001 Waqar M waqar 2020-07-07  Other  1234  
